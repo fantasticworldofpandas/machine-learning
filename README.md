@@ -31,7 +31,7 @@ O código serve como base para aplicação em diferentes contextos de varejo, se
 Este é um exemplo simples e `didático`. Em cenários reais, seria necessário considerar um conjunto de dados mais robusto, ajustar hiperparâmetros do modelo e realizar uma validação mais abrangente.
 
 
-[Confira o código no notebook do Jupyter](https://github.com/atevilson/machine-learning/blob/main/machine.ipynb)
+[Confira o código no notebook do Jupyter](https://github.com/fantasticworldofpandas/machine-learning/blob/main/machine.ipynb)
 
 
 ### Autor
